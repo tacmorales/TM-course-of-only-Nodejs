@@ -1,0 +1,16 @@
+{
+  "name": "traversymedia",
+  "version": "1.0.0",
+  "description": "nodejs crash course code",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "node --watch --env-file=.env server2.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "tac",
+  "license": "MIT",
+  "dependencies": {
+    "rutility": "^1.0.16"
+  }
+}
